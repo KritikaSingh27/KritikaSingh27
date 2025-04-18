@@ -4,7 +4,7 @@
 ✧ ✧ ✧
 
 ### 🛠 Tech Stack
-- 💻 Languages: `Java`, `Python`, `HTML`, `CSS`
+- 💻 Languages: Java, Python, HTML, CSS
 - 🧰 Tools: Git, GitHub, VS Code  
 
 ✧ ✧ ✧
