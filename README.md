@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Kritika !
+# 👋 Hi, I'm Kritika !
 
 ## 🚀 Skills
 - 🐍 Python (Basics + File Management)
