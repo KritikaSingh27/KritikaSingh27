@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kritika !
 
-## 🚀 Skills
-- 🐍 Python (Basics + File Management)
+## Languages
+- 🐍 Python
 - 💻 Java
 
 ## 📫 Reach Me
