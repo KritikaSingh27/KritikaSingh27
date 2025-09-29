@@ -4,7 +4,8 @@
 ✧ ✧ ✧
 
 ### 🛠 Tech Stack
-- 💻 Languages: Java, Python, HTML, CSS
+- 💻 Languages: Java, Python, JavaScript, HTML, CSS
+- ⚙️ Frameworks/Libraries: React.js
 
 ✧ ✧ ✧
 
@@ -18,9 +19,10 @@
 
 ### 🎯 Currently Learning
 - Java DSA (Data Structures & Algorithms)
-- Building responsive UIs with HTML & CSS
-- Exploring the MERN stack (Next: JavaScript!)
+- Building responsive UIs with HTML, CSS & JavaScript
+- React.js & the MERN stack
 
+✧ ✧ ✧
 
 ## 📫 Reach Me
 - LinkedIn: Kritika Singh (www.linkedin.com/in/kritika-singh-27-)
