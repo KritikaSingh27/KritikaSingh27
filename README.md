@@ -1,28 +1,48 @@
-## Hi, I'm Kritika 👋  
-🌱 Exploring the world of code. Passionate about writing clean, creative, and efficient solutions.
+<!-- ====== Header GIF / Pixel Art ====== -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/25/51/ba/2551ba46a9319a3f5a0b0af4b1ed8c3d.gif" width="800" alt="Minecraft girl coding" />
+</p>
 
-✧ ✧ ✧
+<h1 align="center">👋 Hey there, I'm Kritika Singh</h1>
+<h3 align="center">💻 MERN Stack Developer | Java & Python Coder | DSA Learner</h3>
 
-### 🛠 Tech Stack
-- 💻 Languages: Java, Python, JavaScript, HTML, CSS
-- ⚙️ Frameworks/Libraries: React.js
+---
 
-✧ ✧ ✧
+## 🚀 About Me
+- 🌱 Exploring the world of code — building, breaking, and learning every day.  
+- 💡 Passionate about clean, creative, and efficient solutions.  
+- 🎯 Currently focusing on **Java DSA** and **MERN stack projects**.  
+- 🧩 Loves mixing creativity with logic — from design to deployment.  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,react,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KritikaSingh27&show_icons=true&theme=rose_pine&hide=issues&border_radius=10" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSingh27&layout=compact&theme=rose_pine&border_radius=10" height="160" alt="Top Languages" />
+</p>
 
-![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KritikaSingh27&show_icons=true&theme=rose_pine&hide=issues&border_radius=10)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KritikaSingh27&theme=rose-pine&border_radius=10" height="160" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSingh27&layout=compact&theme=rose_pine&border_radius=10)
+---
 
-✧ ✧ ✧
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kritika-singh-27-/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KritikaSingh27" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-### 🎯 Currently Learning
-- Java DSA (Data Structures & Algorithms)
-- Building responsive UIs with HTML, CSS & JavaScript
-- React.js & the MERN stack
-
-✧ ✧ ✧
-
-## 📫 Reach Me
-- LinkedIn: Kritika Singh (www.linkedin.com/in/kritika-singh-27-)
+---
