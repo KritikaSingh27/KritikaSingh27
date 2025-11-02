@@ -1,7 +1,3 @@
-<!-- ====== Header GIF / Pixel Art ====== -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/25/51/ba/2551ba46a9319a3f5a0b0af4b1ed8c3d.gif" width="800" alt="Minecraft girl coding" />
-</p>
 
 <h1 align="center">👋 Hey there, I'm Kritika Singh</h1>
 <h3 align="center">💻 MERN Stack Developer | Java & Python Coder | DSA Learner</h3>
