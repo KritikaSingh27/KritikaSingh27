@@ -30,6 +30,10 @@
 </p>
 
 ---
+## Badges 😎
+[![An image of @kritikasingh27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritikasingh27)](https://holopin.io/@kritikasingh27)
+
+---
 
 ## 🌐 Connect With Me
 <p align="center">
