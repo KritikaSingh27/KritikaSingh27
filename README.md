@@ -1,20 +1,21 @@
-
 <h1 align="center">👋 Hey there, I'm Kritika Singh</h1>
-<h3 align="center">💻 MERN Stack Developer | Java & Python Coder | DSA Learner</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | Django & DRF | React | Java DSA | Agentic AI</h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Exploring the world of code — building, breaking, and learning every day.  
-- 💡 Passionate about clean, creative, and efficient solutions.  
-- 🎯 Currently focusing on **Java DSA** and **MERN stack projects**.  
-- 🧩 Loves mixing creativity with logic — from design to deployment.  
+- 🌱 A coding enthusiast who enjoys building real-world, practical applications.  
+- 💡 Passionate about clean code, problem-solving, and continuous learning.  
+- 🎯 Actively practicing **Data Structures & Algorithms in Java** to strengthen logic and efficiency.  
+- ⚙️ Building full-stack projects using **Django, Django REST Framework, and React**.  
+- 🤖 Exploring **Agentic AI**, integrating AI agents into backend-driven applications.  
+- 🧩 Enjoys blending logic with creativity — from system design to UI planning.
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,react,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,django,react,mysql,sqlite,git,github,figma,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -30,7 +31,8 @@
 </p>
 
 ---
-## Badges 😎
+
+## 🏅 Badges 😎
 [![An image of @kritikasingh27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritikasingh27)](https://holopin.io/@kritikasingh27)
 
 ---
